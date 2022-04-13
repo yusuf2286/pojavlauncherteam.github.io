@@ -11,4 +11,4 @@ We're making this change to prevent any legal issues that could end PojavLaunche
 
 We will not provide support for finding workarounds or acquiring Minecraft through other means if you do not own the game.
 
-A couple months after we make this change and add demo mode to the launcher, we plan on removing local mode altogether.
+A couple months after we make this change and add demo mo
